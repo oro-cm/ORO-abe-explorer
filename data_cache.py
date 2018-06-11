@@ -1,0 +1,1 @@
+{"e-commerce": {"week": 0, "total": 0, "day": 0, "month": 0, "year": 0, "volume":0}, "block": {"week": 0, "total": 0, "day": 0, "month": 0, "year": 0}, "exchanges": {"week": 0, "total": 0, "day": 0, "month": 0, "year": 0, "volume":0},"time_count":0, "last_time":0, "last_restart_time":0}
